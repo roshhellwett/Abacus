@@ -13,4 +13,4 @@
 # 🇫🇴🇺🇷🇹🇭 🇸🇹🇪🇵
 ![image alt](https://github.com/roshhellwett/Abacus/blob/02ba5dcdd735fdda13a5098c966d54e51a8b1590/demo_four.png)
 #
-![image alt](https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg)
+![image alt](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
