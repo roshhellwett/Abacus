@@ -1,3 +1,29 @@
-# ᴀʙᴀᴄᴜꜱ
-ᴛʜɪꜱ ʀᴇʟᴇᴀꜱᴇ ɪɴᴛʀᴏᴅᴜᴄᴇꜱ ᴀ ʀᴏʙᴜꜱᴛ ᴄᴏᴍᴍᴀɴᴅ-ʟɪɴᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ɪɴ ᴄ, ꜰᴇᴀᴛᴜʀɪɴɢ ꜰᴜɴᴅᴀᴍᴇɴᴛᴀʟ ᴀʀɪᴛʜᴍᴇᴛɪᴄ ᴏᴘᴇʀᴀᴛɪᴏɴꜱ: ᴀᴅᴅɪᴛɪᴏɴ, ꜱᴜʙᴛʀᴀᴄᴛɪᴏɴ, ᴍᴜʟᴛɪᴘʟɪᴄᴀᴛɪᴏɴ, ᴀɴᴅ ᴅɪᴠɪꜱɪᴏɴ. ᴇɴʜᴀɴᴄᴇᴅ ᴡɪᴛʜ ᴄᴏᴍᴘʀᴇʜᴇɴꜱɪᴠᴇ ɪɴᴘᴜᴛ ᴠᴀʟɪᴅᴀᴛɪᴏɴ, ɪᴛ ꜱᴀꜰᴇɢᴜᴀʀᴅꜱ ᴀɢᴀɪɴꜱᴛ ᴅɪᴠɪꜱɪᴏɴ-ʙʏ-ᴢᴇʀᴏ ᴇʀʀᴏʀꜱ, ᴇɴꜱᴜʀɪɴɢ ꜱᴛᴀʙʟᴇ ᴇxᴇᴄᴜᴛɪᴏɴ. ᴛʜᴇ ɪɴᴛᴜɪᴛɪᴠᴇ ᴍᴇɴᴜ-ᴅʀɪᴠᴇɴ ɪɴᴛᴇ ʀꜰᴀᴄᴇ ᴘʀᴏᴍᴏᴛᴇꜱ ꜱᴇᴀᴍʟᴇꜱꜱ ᴜꜱᴇʀ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴꜱ, ᴄᴏᴍʙɪɴᴇᴅ ᴡɪᴛʜ ᴀɴ ɪɴᴛᴇʟʟɪɢᴇɴᴛ ʟᴏᴏᴘ ᴍᴇᴄʜᴀɴɪꜱᴍ ᴛʜᴀᴛ ᴀʟʟᴏᴡꜱ ᴄᴏɴᴛɪɴᴜᴏᴜꜱ ᴜꜱᴇ ᴡɪᴛʜᴏᴜᴛ ʀᴇꜱᴛᴀʀᴛɪɴɢ. ᴛʜɪꜱ ʀᴇʟᴇᴀꜱᴇ ꜰᴏᴄᴜꜱᴇꜱ ᴏɴ ᴅᴇʟɪᴠᴇʀɪɴɢ ᴄʟᴇᴀɴ, ᴍᴀɪɴᴛᴀɪɴᴀʙʟᴇ ᴄᴏᴅᴇ ɪᴅᴇᴀʟ ꜰᴏʀ ᴇᴅᴜᴄᴀᴛɪᴏɴ ᴀɴᴅ ᴅᴇᴍᴏɴꜱᴛʀᴀᴛɪᴏɴ ᴘᴜʀᴘᴏꜱᴇꜱ, ᴘʀᴏᴠɪᴅɪɴɢ ᴀ ꜱᴏʟɪᴅ ꜰᴏᴜɴᴅᴀᴛɪᴏɴ ꜰᴏʀ ᴇxᴛᴇɴᴅɪɴɢ ꜰᴜɴᴄᴛɪᴏɴᴀʟɪᴛʏ. ʀᴇᴀᴅʏ ꜰᴏʀ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ ɪɴ ʙᴇɢɪɴɴᴇʀ ᴀɴᴅ ɪɴᴛᴇʀᴍᴇᴅɪᴀᴛᴇ ᴘʀᴏᴊᴇᴄᴛꜱ, ᴛʜᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ᴇxᴇᴍᴘʟɪꜰɪᴇꜱ ʙᴇꜱᴛ ᴘʀᴀᴄᴛɪᴄᴇꜱ ɪɴ ᴄᴏɴᴛʀᴏʟ ꜰʟᴏᴡ, ɪɴᴘᴜᴛ ʜᴀɴᴅʟɪɴɢ, ᴀɴᴅ ᴜꜱᴇʀ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴡɪᴛʜɪɴ ᴀ ᴄᴏɴꜱᴏʟᴇ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ.
+# Abacus 🎯
 
+[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)  
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)  
+![Status](https://img.shields.io/badge/Status-Active-success)  
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
+![GitHub stars](https://img.shields.io/github/stars/roshhellwett/Abacus?style=social)
+
+**Abacus** is a simple yet powerful **command-line calculator program** written in C. It allows users to perform basic arithmetic and other useful calculations via a friendly console interface.
+
+---
+
+## 🧮 Features  
+- Basic arithmetic: addition, subtraction, multiplication, division  
+- Interactive menu-driven interface  
+- Modular code using functions for clarity and reuse  
+- Lightweight and fast — suitable for any standard terminal environment  
+
+---
+
+## 🚀 Getting Started  
+### Prerequisites  
+You’ll need a standard C compiler (e.g., `gcc`) and a terminal.
+
+### Installation & Build  
+```bash
+git clone https://github.com/roshhellwett/Abacus.git
+cd Abacus
+gcc main.c -o abacus      # adjust file names if needed
